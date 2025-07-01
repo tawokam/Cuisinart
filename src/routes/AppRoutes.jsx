@@ -6,7 +6,7 @@ import LoginForm from '../features/Auth/Components/LoginForm';
 export default function AppRoutes() {
   return (
     <Routes>
-     
+      <Route path="/" element={<LoginForm />} />
       <Route path="/register" element={<RegisterForm />} />
       <Route path="/login" element={<LoginForm />} />
     </Routes>
