@@ -1,0 +1,36 @@
+{
+  "register": "Register",
+  "phone": "WhatsApp Number",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "invitationCode": "Invitation Code",
+  "passwordNotice": "Your password is confidential.",
+  "invitationNotice": "Make sure the invitation code is correct.",
+  "downloadapp": "Download the application.",
+  "registerSuccess": "Registration successful!",
+
+  "phoneRequired": "WhatsApp number is required.",
+  "phoneFormat": "The number must start with '+' followed by digits only.",
+  "phoneShort": "Number too short.",
+
+  "passwordRequired": "Password is required.",
+  "passwordMin": "Password must be at least 6 characters long.",
+  "passwordUppercase": "Password must contain at least one uppercase letter.",
+  "passwordLowercase": "Password must contain at least one lowercase letter.",
+  "passwordDigit": "Password must contain at least one digit.",
+  "passwordSpecial": "Password must contain at least one special character (@$!%*?&).",
+
+  "passwordMatch": "Passwords must match.",
+  "confirmPasswordRequired": "Please confirm your password.",
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create an account",
+  "alreadyAccount": "Already have an account?",
+  "login": "Login",
+  "registerFailed": "Registration failed",
+  "USER_ALREADY_EXISTS": "The user already exists",
+  "INVALID_INVITATION_CODE": "Invalid invitation code",
+  "VALIDATION_ERROR": "Validation error",
+  "AUTH_FAILED": "Incorrect phone number or password",
+  "loginSuccess": "Login successful",
+  "loginFailed": "Login failed"
+}

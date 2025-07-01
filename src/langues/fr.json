@@ -1,0 +1,36 @@
+{
+  "register": "S'inscrire",
+  "phone": "Numéro WhatsApp",
+  "password": "Mot de passe",
+  "confirmPassword": "Confirmer le mot de passe",
+  "invitationCode": "Code d'invitation",
+  "passwordNotice": "Votre mot de passe est confidentiel.",
+  "invitationNotice": "Vérifiez que le code d’invitation est correct.",
+  "downloadapp": "Télécharger l'application.",
+  "registerSuccess": "Inscription réussie !",
+
+  "phoneRequired": "Le numéro WhatsApp est requis.",
+  "phoneFormat": "Le numéro doit commencer par '+' suivi uniquement de chiffres.",
+  "phoneShort": "Numéro trop court.",
+
+  "passwordRequired": "Le mot de passe est requis.",
+  "passwordMin": "Le mot de passe doit comporter au moins 6 caractères.",
+  "passwordUppercase": "Le mot de passe doit contenir au moins une majuscule.",
+  "passwordLowercase": "Le mot de passe doit contenir au moins une minuscule.",
+  "passwordDigit": "Le mot de passe doit contenir au moins un chiffre.",
+  "passwordSpecial": "Le mot de passe doit contenir au moins un caractère spécial (@$!%*?&).",
+
+  "passwordMatch": "Les mots de passe doivent correspondre.",
+  "confirmPasswordRequired": "Veuillez confirmer votre mot de passe.",
+  "noAccount": "Vous n'avez pas de compte?",
+  "createAccount": "Créer un compte",
+  "alreadyAccount": "Vous avez déjà un compte?",
+  "login": "Connexion",
+  "registerFailed": "Échec de l'inscription",
+  "USER_ALREADY_EXISTS": "L'utilisateur existe déjà",
+  "INVALID_INVITATION_CODE": "Code d'invitation invalide",
+  "VALIDATION_ERROR": "Erreur de validation",
+  "AUTH_FAILED": "Numéro ou mot de passe incorrect",
+  "loginSuccess": "Connexion réussie",
+  "loginFailed": "Échec de la connexion"
+}

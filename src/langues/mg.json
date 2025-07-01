@@ -1,0 +1,36 @@
+{
+  "register": "Misoratra anarana",
+  "phone": "Nomerao WhatsApp",
+  "password": "Teny miafina",
+  "confirmPassword": "Hamafiso ny tenimiafina",
+  "invitationCode": "Kaody fanasana",
+  "passwordNotice": "Miafina ny tenimiafinao.",
+  "invitationNotice": "Ataovy azo antoka fa marina ny kaody fanasana.",
+  "downloadapp": "Ampidino ny fampiharana.",
+  "registerSuccess": "Fisoratana anarana vita soa aman-tsara!",
+
+  "phoneRequired": "Ilaina ny nomerao WhatsApp.",
+  "phoneFormat": "Tokony hanomboka amin'ny '+' ary manaraka tarehimarika fotsiny ny nomerao.",
+  "phoneShort": "Nomerao fohy loatra.",
+
+  "passwordRequired": "Ilaina ny tenimiafina.",
+  "passwordMin": "Farafahakeliny 6 litera ny tenimiafina.",
+  "passwordUppercase": "Tokony hisy litera lehibe iray farafahakeliny ny tenimiafina.",
+  "passwordLowercase": "Tokony hisy litera kely iray farafahakeliny ny tenimiafina.",
+  "passwordDigit": "Tokony hisy tarehimarika iray farafahakeliny ny tenimiafina.",
+  "passwordSpecial": "Tokony hisy mari-piato manokana iray farafahakeliny (@$!%*?&).",
+
+  "passwordMatch": "Tokony hitovy ny tenimiafina roa.",
+  "confirmPasswordRequired": "Azafady, hamafiso ny tenimiafinao.",
+  "noAccount": "Tsy manana kaonty ve ianao?",
+  "createAccount": "Mamorona kaonty",
+  "alreadyAccount": "Manana kaonty ve ianao?",
+  "login": "Hiditra",
+  "registerFailed": "Nisy tsy fetezana tamin'ny fisoratana anarana",
+  "USER_ALREADY_EXISTS": "Efa misy io mpampiasa io",
+  "INVALID_INVITATION_CODE": "Kaody fanasana diso",
+  "VALIDATION_ERROR": "Nisy hadisoana tamin'ny fanamarinana",
+  "AUTH_FAILED": "Diso ny laharana na ny tenimiafina",
+  "loginSuccess": "Fidirana nahomby",
+  "loginFailed": "Nisy tsy fetezana tamin'ny fidirana"
+}
